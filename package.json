@@ -1,0 +1,11 @@
+{
+  "name": "laboratorio-javascript-avanzado",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "callbacks": "node src/callbacks.js",
+    "promesas": "node src/promesas.js",
+    "async": "node src/async-await.js",
+    "limite": "node src/caso-limite.js"
+  }
+}
